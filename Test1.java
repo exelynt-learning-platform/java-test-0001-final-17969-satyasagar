@@ -13,7 +13,6 @@ public class Test1 {
                 }
                 System.out.print("*");
             }
-
             System.out.println();
         }
         for (int i = n - 1; i >= 1; i--) {
